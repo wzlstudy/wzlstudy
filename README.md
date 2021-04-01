@@ -1,17 +1,17 @@
-想要变强的咸鱼 🌱
+### Hi there 👋 我是阿梁，一个想要变强的咸鱼 🌱
 - 个人博客：www.istudy.love
 
 - 公众号：正在开发中，敬请期待！
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=wzlstudy&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wzlstudy&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wzlstudy)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wzlstudy&repo=repo-name)](https://github.com/wzlstudy/repo-name)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wzlstudy&repo=Java)](https://github.com/wzlstudy/Java)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wzlstudy&repo=repo-name&show_owner=true)](https://github.com/wzlstudy/repo-name)
 
-### Hi there 👋
+
+
 
 <!--
 **wzlstudy/wzlstudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
