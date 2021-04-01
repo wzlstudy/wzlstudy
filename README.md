@@ -1,13 +1,14 @@
 ### Hi there 👋 我是阿梁，一个想要变强的咸鱼 🌱
-- 个人博客：www.istudy.love
+- 🍓个人博客：www.istudy.love
 
-- 公众号：正在开发中，敬请期待！
+- 🍓公众号：正在开发中，敬请期待！
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=wzlstudy&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wzlstudy)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wzlstudy&layout=compact)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wzlstudy&repo=Java)](https://github.com/wzlstudy/Java)
+### My Repos
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=wzlstudy&repo=Java&show_owner=true)](https://github.com/wzlstudy/Java)
 
 
 
